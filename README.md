@@ -20,6 +20,6 @@ General Public License (GPL) v3.0 .
 
 An open source project created by Saman Ebrahimnezhad .
 
-Created at Iran (IR) .
+Created in Iran (IR) .
 
 Python 3 .
