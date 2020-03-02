@@ -2,17 +2,17 @@
 # WeatherShell
 An application that gives you the weather of the city you insert. (No GUI)
 
-# Requirement
+### Requirement
 
 * Python3
 * json framework
 * requests framework
 
-# Installation
+### Installation
 
 It's the portable version so there's no need to install.
 
-# Usage
+### Usage
 
 Shell:
 
@@ -21,7 +21,7 @@ Shell:
 python3 WeatherShell.py CITY_NAME
 
 ```
-# License
+### License
 
 General Public License (GPL) v3.0 .
 
