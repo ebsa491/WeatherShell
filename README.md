@@ -21,7 +21,7 @@ Shell:
 python3 WeatherShell.py CITY_NAME
 
 ```
-### License
+### Other
 
 General Public License (GPL) v3.0 .
 
