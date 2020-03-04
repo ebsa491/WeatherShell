@@ -23,7 +23,7 @@ class WeatherShell:
         city = ""
         
         if len(sys.argv) < 2:
-            print("ERROR: Syntax : python3 main.py CITY_NAME")
+            print("ERROR: Syntax : python3 WeatherShell.py CITY_NAME")
             return
         else:
             city = " ".join(sys.argv[1:])
