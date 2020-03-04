@@ -5,7 +5,7 @@ An application that gives you the weather of the city you insert. (No GUI)
 [![Build Status](https://img.shields.io/badge/build-passing-success)](https://samebison.ir)
 [![License: GPL v3](https://img.shields.io/badge/license-GPL--3.0-informational)](https://www.gnu.org/licenses/gpl-3.0)
 
-### Requirement
+### Requirements
 
 * Python3
 * json framework
