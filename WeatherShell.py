@@ -1,4 +1,3 @@
-#!/usr/bin/
 # General Public License (GPL) v3.0 .
 # An open source project created by Saman Ebrahimnezhad .
 # Created at Iran (IR) .
