@@ -25,6 +25,9 @@ Shell:
 python3 WeatherShell.py CITY_NAME
 
 ```
+
+**Note:** API: [```https://weatherstack.com```](https://weatherstack.com)
+
 ### Other
 
 &#127279; GNU General Public License (GPL) v3.0 .
