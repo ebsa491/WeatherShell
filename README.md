@@ -33,7 +33,7 @@ python3 WeatherShell.py CITY_NAME
 
 &#127279; GNU General Public License (GPL) v3.0 .
 
-An open source project created by Saman Ebrahimnezhad .
+The project has been developed by Saman Ebrahimnezhad .
 
 Created in Iran (IR) .
 
