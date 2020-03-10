@@ -23,7 +23,7 @@ Shell:
 
 ```shell
 
-python3 WeatherShell.py CITY_NAME
+$ python3 WeatherShell.py CITY_NAME
 
 ```
 
